@@ -200,6 +200,7 @@
     * [Interest](https://github.com/TheAlgorithms/Rust/blob/master/src/math/interest.rs)
     * [Interpolation](https://github.com/TheAlgorithms/Rust/blob/master/src/math/interpolation.rs)
     * [Interquartile Range](https://github.com/TheAlgorithms/Rust/blob/master/src/math/interquartile_range.rs)
+    * [Intersection over Union](https://github.com/TheAlgorithms/Rust/blob/master/src/math/intersection_over_union.rs)
     * [Karatsuba Multiplication](https://github.com/TheAlgorithms/Rust/blob/master/src/math/karatsuba_multiplication.rs)
     * [Lcm Of N Numbers](https://github.com/TheAlgorithms/Rust/blob/master/src/math/lcm_of_n_numbers.rs)
     * [Leaky Relu](https://github.com/TheAlgorithms/Rust/blob/master/src/math/leaky_relu.rs)
